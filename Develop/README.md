@@ -23,6 +23,9 @@
   
   ## Contributing
   Contributor: Ashley Fernandez
+
+  ## Video
+  https://drive.google.com/file/d/15f9f9kO-4aIXbhpQGAt4YuIgJoOKFDfP/view
   
   ## Tests
   Will be created and used to see if code successfully created readme file and table of contents with corresponding sections.
